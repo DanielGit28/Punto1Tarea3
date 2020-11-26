@@ -1,6 +1,6 @@
 package cr.ac.ucenfotec.clase20.gestor;
 
-import cr.ac.ucenfotec.clase20.dao.*;
+
 import cr.ac.ucenfotec.clase20.entidades.*;
 import cr.ac.ucenfotec.clase20.entidades.enums.TipoMaterial;
 import cr.ac.ucenfotec.clase20.persistencia.MaterialFAO;
@@ -10,7 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MaterialGestor {
-
+/*
     private AudioDAO audioDao = new AudioDAO();
     private TextoDAO textoDAO = new TextoDAO();
     private VideoDAO videoDAO = new VideoDAO();
@@ -65,5 +65,5 @@ public class MaterialGestor {
         }
         throw new Exception("Tipo de Material Desconocido");
     }
-
+*/
 }
